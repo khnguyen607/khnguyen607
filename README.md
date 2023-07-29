@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://i.pinimg.com/originals/4d/ff/6d/4dff6d3ff198aead3cedbb9c1b82bb5e.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khnguyen607&icon=0&color=0)](https://visitcount.itsvg.in)
